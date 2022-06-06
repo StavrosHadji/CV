@@ -1,0 +1,29 @@
+body {
+  background-color: #DAEAF1;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color: orange;
+  border-width: 4px;
+  width: 10%;
+}
+
+h1{
+color: blue;
+}
+
+h3{
+color: #354259;
+}
+
+/***************class selector***************/
+
+.contact{
+  background-color: #8CC0DE;
+  width: 100px;
+}
+
+.contact:hover{
+  background-color: gold;
+}
